@@ -1,6 +1,6 @@
 <a href="#">
-  <h1 align="center">Hi 👋, I'm Taimoor Tariq</h1>
-  <h3 align="center">A passionate NodeJS Developer</h3>
+  <h1>Hi 👋, I'm Taimoor Tariq</h1>
+  <h3>A passionate NodeJS Developer</h3>
 
 <!--   <p align="left">
     <img alt="Taimoor-Tariq" src="https://komarev.com/ghpvc/?username=Taimoor-Tariq&label=Profile%20views&color=018e7e&style=flat-square" />
