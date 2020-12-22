@@ -1,4 +1,3 @@
-<a href="#">
 <h1>Hi 👋, I'm Taimoor Tariq</h1>
 <h3>A passionate NodeJS Developer</h3>
 
@@ -66,5 +65,3 @@
     </td>
   </tr>
 </table>
-
-</a>
