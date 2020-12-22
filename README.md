@@ -84,6 +84,31 @@ const TaimoorTariq = {
     <li><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282146-adobe-dreamweaver-cc-creative-cloud_78288.png" width="15px">&nbsp; Dreamweaver</li>
     <li><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Blender_23505.png" width="15px">&nbsp; Blender</li>
 </ul>
+<!-- <a href="#">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_pug_icon_130225.png">
+    <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sqlite_icon_130153.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_access_logo_icon_145727.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_word_logo_icon_145724.png"> 
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_power_point_office_logo_icon_145723.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282160-adobe-after-effects-cc-creative-cloud-digital-visual-effects-motion-graphics-and-compositing-application_78299.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282146-adobe-dreamweaver-cc-creative-cloud_78288.png">
+    <img width="50px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Blender_23505.png">
+</a> -->
 
 <h3>Prefered Editor:</h3>
 <p><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="15px">&nbsp; Visual Studio Code</p>
