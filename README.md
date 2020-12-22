@@ -55,7 +55,11 @@
 <p><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="15px">&nbsp; Visual Studio Code</p>
 
 <br><br>
-<table width="100%">
+<h3>🎧 Spotify Now Playing...</h3>
+<a href="https://readme-spotify-2.taimoor-tariq.vercel.app/now-playing?open">
+  <img src="https://readme-spotify-2.taimoor-tariq.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+<!-- <table width="100%">
   <tr>
     <td>
       <h3>🎧 Spotify Now Playing...</h3>
@@ -66,4 +70,4 @@
       <img src="https://readme-spotify.taimoor-tariq.vercel.app/api/spotify" alt="taimoor-tariq" width="100%" />
     </td>
   </tr>
-</table>
+</table> -->
