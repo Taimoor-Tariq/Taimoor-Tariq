@@ -6,7 +6,7 @@
     <img alt="Taimoor-Tariq" src="https://komarev.com/ghpvc/?username=Taimoor-Tariq&label=Profile%20views&color=018e7e&style=flat-square" />
 <!--     <img alt="GitHub followers" src="https://img.shields.io/github/followers/taimoor-tariq?style=flat-square"> -->
 <!--     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_TaimoorTariq?style=flat-square"> -->
-    <img alt="Discord" src="https://img.shields.io/discord/790724326722633758?label=discord&style=flat-square">
+<!--     <img alt="Discord" src="https://img.shields.io/discord/790724326722633758?label=discord&style=flat-square"> -->
   </p>
 
   <p><img src="https://metrics.lecoq.io/Taimoor-Tariq" alt="taimoor-tariq" width="50%" /></p>
