@@ -113,11 +113,11 @@ const TaimoorTariq = {
 <h3>Prefered Editor:</h3>
 <p><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="15px">&nbsp; Visual Studio Code</p>
 
-<br>
+<!-- <br>
 <h3>🎧 Spotify Now Playing...</h3>
 <a href="https://readme-spotify-2.taimoor-tariq.vercel.app/now-playing?open" terget="_blank">
     <img src="https://readme-spotify-2.taimoor-tariq.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+</a> -->
 
 
 <!-- <a href="#">
