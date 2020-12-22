@@ -9,12 +9,9 @@
     <img alt="Discord" src="https://img.shields.io/discord/790724326722633758?label=discord&style=flat-square">
   </p> -->
 
-  <p><img src="https://metrics.lecoq.io/Taimoor-Tariq" alt="taimoor-tariq" /></p>
-
-  <!--   <p><img src="https://github-readme-stats.vercel.app/api?username=taimoor-tariq&show_icons=true&theme=dark&locale=en&count_private=true" alt="taimoor-tariq" /></p> -->
-
-  <!--   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-tariq&theme=dark" alt="taimoor-tariq" /></p> -->
-
-  <!--   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-tariq&show_icons=true&theme=dark&locale=en&layout=compact" alt="taimoor-tariq" /></p> -->
+  <p><img src="https://metrics.lecoq.io/Taimoor-Tariq" alt="taimoor-tariq" width="50%" /></p>
+<!--   <p><img src="https://github-readme-stats.vercel.app/api?username=taimoor-tariq&show_icons=true&theme=dark&locale=en&count_private=true" alt="taimoor-tariq" /></p> -->
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-tariq&theme=dark" alt="taimoor-tariq" width="50%" /></p>
+<!--   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-tariq&show_icons=true&theme=dark&locale=en&layout=compact" alt="taimoor-tariq" /></p> -->
 
 </a>
