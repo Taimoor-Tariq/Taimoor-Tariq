@@ -21,8 +21,8 @@
                 <img src="https://metrics.lecoq.io/Taimoor-Tariq" alt="taimoor-tariq" width="100%" />
             </td>
             <td width="50%">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-tariq&show_icons=true&theme=dark&locale=en&layout=compact" alt="taimoor-tariq" width="100%" />
-                <img src="https://github-readme-stats.vercel.app/api?username=taimoor-tariq&show_icons=true&theme=dark&locale=en&count_private=true" alt="taimoor-tariq" width="100%" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-tariq&show_icons=true&locale=en&layout=compact" alt="taimoor-tariq" width="100%" />
+                <img src="https://github-readme-stats.vercel.app/api?username=taimoor-tariq&show_icons=true&locale=en&count_private=true" alt="taimoor-tariq" width="100%" />
             </td>
         </tr>
     </table>
