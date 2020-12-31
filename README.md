@@ -14,6 +14,7 @@
 <!-- <p><img src="https://readme-spotify.taimoor-tariq.vercel.app/api/spotify" alt="taimoor-tariq" width="50%" /></p> -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taimoor-tariq&show_icons=true&theme=dark&locale=en&layout=compact" alt="taimoor-tariq" /></p> -->
 
+
 <a href="#">
     <table width="100%">
         <tr>
