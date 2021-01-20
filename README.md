@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Taimoor Tariq</h1>
-<h3>Professional Electron and NodeJS Developer</h3>
+<h3>Professional Programmer and Web Developer</h3>
 
 <a href="#">
     <img alt="Taimoor-Tariq" src="https://komarev.com/ghpvc/?username=Taimoor-Tariq&label=Profile%20views&color=018e7e&style=flat-square" />
