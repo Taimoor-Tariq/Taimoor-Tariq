@@ -3,7 +3,7 @@
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Taimoor-Tariq&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taimoor-Tariq&layout=compact) -->
 
-## ✨ My socials
+## ✨ My socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MuhammadTaimoorTariq)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_TaimoorTariq)
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/C0C030IH9)
@@ -26,9 +26,12 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## ✨ Editor and Services I use:
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![Cloudways](https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logo=Cloudways&logoColor=white)
+![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=Glitch&logoColor=white)
+
 <!-- ## ✨ Featured Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taimoor-Tariq&repo=BetterDiscordStuff)](https://github.com/Taimoor-Tariq/BetterDiscordStuff)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taimoor-Tariq&repo=BetterDiscordStuff)](https://github.com/Taimoor-Tariq/BetterDiscordStuff) -->
-
-<!-- ## ✨ Editor
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
