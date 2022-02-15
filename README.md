@@ -2,7 +2,7 @@
 ### I am a Full-Stack Developer
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Taimoor-Tariq&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taimoor-Tariq&layout=compact) -->
-![Metrics](https://metrics.lecoq.io/Taimoor-Tariq?template=classic&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York&config.display=columns)
+<a href="#"><img src="https://metrics.lecoq.io/Taimoor-Tariq?template=classic&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York&config.display=columns" width="100%"></a>
 
 ## ✨ My socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MuhammadTaimoorTariq)
