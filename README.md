@@ -1,5 +1,7 @@
 # Hi 👋, I'm Taimoor Tariq
 ### I am a Full-Stack Developer
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Taimoor-Tariq&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taimoor-Tariq&layout=compact) -->
 
 ## ✨ My socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MuhammadTaimoorTariq)
@@ -23,6 +25,10 @@
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<!-- ## ✨ Featured Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taimoor-Tariq&repo=BetterDiscordStuff)](https://github.com/Taimoor-Tariq/BetterDiscordStuff)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Taimoor-Tariq&repo=BetterDiscordStuff)](https://github.com/Taimoor-Tariq/BetterDiscordStuff) -->
 
 <!-- ## ✨ Editor
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
