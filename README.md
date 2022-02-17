@@ -4,6 +4,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taimoor-Tariq&layout=compact) -->
 <!-- <a href="#"><img src="https://metrics.lecoq.io/Taimoor-Tariq?template=classic&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FNew_York&config.display=columns" width="100%"></a> -->
 
+
+### 📈 My GitHub Stats
+
+<p>
+  <a href="#">
+    <img align="left" height="144em" src="https://github-readme-stats.vercel.app/api?username=Taimoor-Tariq&title_color=F04747&text_color=7289DA&icon_color=F04747&bg_color=23283D&hide_border=truee&hide_title=true&show_icons=true&include_all_commits=true&count_private=true"  alt="Taimoor-Tariq's GitHub stats" />
+  </a>
+
+  <a href="#">
+    <img align="center" height="144em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taimoor-Tariq&title_color=F04747&text_color=7289DA&icon_color=F04747&bg_color=23283D&hide_border=true&layout=compact&langs_count=4" alt="Taimoor-Tariq's most used languages" />
+  </a>
+</p>
+
 ## ✨ My socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MuhammadTaimoorTariq)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_TaimoorTariq)
