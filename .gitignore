@@ -1,1 +1,8 @@
-*test*
+package-lock.json
+node_modules
+temp
+test
+out
+build
+.next
+.env
