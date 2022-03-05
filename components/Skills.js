@@ -1,6 +1,7 @@
 const badges = [
     {badge: 'https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white', link: 'https://nextjs.org/'},
     {badge: 'https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white', link: 'https://tailwindcss.com/'},
+    {badge: 'https://img.shields.io/badge/Mantine_UI-6992eb?style=for-the-badge&logoColor=white', link: 'https://mantine.dev/'},
     {badge: 'https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white', link: 'https://nodejs.org/en/'},
     {badge: 'https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white', link: 'https://expressjs.com/'},
     {badge: 'https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white', link: 'https://sass-lang.com/'},

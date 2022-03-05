@@ -11,10 +11,6 @@ const Page = () => {
             <AboutMe />
             <Skills />
             <Projects />
-            
-            {/* <div className='frame'>
-                <span>Im still working on the site 🙂</span>
-            </div> */}
 
             <Footer />
         </>
