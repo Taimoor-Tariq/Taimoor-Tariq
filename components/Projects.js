@@ -3,7 +3,7 @@ export default function Layout() {
         'Taimoor-Tariq',
         'BetterDiscordStuff',
         'realtime-chat-app',
-        'nextjs-socketio',
+        'discord-interaction-components',
     ];
     
     return (
