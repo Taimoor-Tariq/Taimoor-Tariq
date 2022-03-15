@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
                 <title>{pageProps.title}</title>
                 <meta charSet="utf-8" />
                 <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta name="keywords" content="taimoor, taimoor-tariq, taimoor tariq, full-stack developer" />
                 <meta name="robots" content="index, follow" />

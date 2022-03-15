@@ -1,6 +1,6 @@
-import { devSkills } from "../public/profile";
+import { editorAndServices } from "../public/profile";
 
-const badges = devSkills.map(s => { return { badge: `https://img.shields.io/badge/${s.name}-${s.badge.color}?style=for-the-badge&logo=${s.badge.name}&logoColor=${s.badge.logoColor}`, link: s.website } });
+const badges = editorAndServices.map(s => { return { badge: `https://img.shields.io/badge/${s.name}-${s.badge.color}?style=for-the-badge&logo=${s.badge.name}&logoColor=${s.badge.logoColor}`, link: s.url } });
 
 export default function Layout() {
     const Badge = ({src, href='#'}) => {
@@ -13,7 +13,7 @@ export default function Layout() {
 
     return (
         <div className='frame'>
-            <p className="mb-6 text-2xl font-bold">✨ Languages and Frameworks I use</p>
+            <p className="mb-6 text-2xl font-bold">🦖 Editor and Services I use</p>
             <div className='flex flex-wrap gap-2'>
                 {badges.map((b, key) => {
                     return (

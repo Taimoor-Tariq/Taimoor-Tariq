@@ -17,6 +17,11 @@ module.exports = {
                 permanent: true,
             },
             {
+                source: "/kofi",
+                destination: "https://ko-fi.com/C0C030IH9",
+                permanent: true,
+            },
+            {
                 source: "/projects/chat-app/:path*",
                 destination: "https://chat-app.projects.taimoor.me/:path*",
                 permanent: true,
