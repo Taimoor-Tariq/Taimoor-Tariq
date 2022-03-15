@@ -30,7 +30,7 @@ profile.devSkills.forEach(s => {
 
 readme += "\n## 🦖 Editor and Services I use\n\n";
 profile.editorAndServices.forEach(s => {
-    readme += `[![${s.name}](https://img.shields.io/badge/${s.name}-${s.badge.color}?style=for-the-badge&logo=${s.badge.name}&logoColor=${s.logoColor})](#)\n`;
+    readme += `[![${s.name}](https://img.shields.io/badge/${s.name}-${s.badge.color}?style=for-the-badge&logo=${s.badge.name}&logoColor=${s.badge.logoColor})](#)\n`;
 });
 
 fs.writeFileSync("./README.md", readme);

@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm Taimoor Tariq
 
 ### I am a Full-Stack Developer
@@ -44,9 +43,9 @@
 
 ## 🦖 Editor and Services I use
 
-[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=undefined)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=undefined)](#)
-[![Cloudways](https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logo=cloudways&logoColor=undefined)](#)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=undefined)](#)
-[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=undefined)](#)
-[![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=undefined)](#)
+[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Cloudways](https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logo=cloudways&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](#)
+[![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](#)
+[![Glitch](https://img.shields.io/badge/Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)](#)
