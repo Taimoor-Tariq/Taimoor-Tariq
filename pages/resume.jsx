@@ -14,10 +14,12 @@ const Page = () => {
                         return (
                             <div className="fixed top-0 left-0 bg-gray-900 w-full p-4 flex justify-between">
                                 <p className="text-gray-200 font-semibold text-2xl ml-6">Taimoor Tariq - Resume.pdf</p>
-                                <a href="/" className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">Back to my site</a>
-                                <button onClick={toPdf} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                                    Download
-                                </button>
+                                <div className="flex gap-4">
+                                    <a href="/" className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">Back to my site</a>
+                                    <button onClick={toPdf} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                                        Download
+                                    </button>
+                                </div>
                             </div>
                         );
                     }}
