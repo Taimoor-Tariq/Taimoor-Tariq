@@ -2,6 +2,13 @@ module.exports = {
     name: "Taimoor Tariq",
     email: "taimoortariq2000@gmail.com",
     title: "Full-Stack Developer",
+    dob: "Oct 05, 2000",
+    phone: "+1 (343) 988-6694",
+    address: {
+        postalCode: "K1G 0N1",
+        city: "Ottawa",
+        country: "Canada",
+    },
 
     socials: [
         { name: "Twitter", url: "https://taimoor.me/twitter", icon: "twitter", badge: { name: "twitter", color: "1DA1F2", logoColor: "white" } },
@@ -11,10 +18,64 @@ module.exports = {
     ],
 
     summary:
-        "Full-Stack Developer. Currently enrolled at Carleton University, I have been creating applications since high school. I have created a wide variety of programs and am capable of implementing ideas that I have into practical programs. With my experience working on a large number of team projects, I have developed great teamwork and leadership skills that would be very valuable for me when settling into new work environments.",
+        "Full-Stack Developer. Currently enrolled at Carleton University, I have been creating applications since high school. Having created a wide variety of programs and am capable of implementing my ideas into practical programs. With my experience working on a large number of team projects, I've developed great teamwork and leadership skills that would be very valuable for me when settling into new work environments.",
 
     avatar: "https://taimoor.me/images/avatar.jpg",
     banner: "https://taimoor.me/images/banner.jpg",
+
+    employment: [
+        {
+            company: "Tim Hortons",
+            location: "Ottawa, ON",
+            startDate: "Aug 2021",
+            endDate: "Present",
+            summary: "Working part-time taking and serving orders both at the store front and drive-thru.",
+        },
+        {
+            title: "Lead Developer",
+            company: "Ontario Post Secondary Esports",
+            location: "Ottawa, ON",
+            companyUrl: "https://opsesports.ca/",
+            startDate: "Sep 2020",
+            endDate: "Present",
+            summary: "Developed an automated system to host and record the tournament games. I currently look after the system and make sure everything goes smoothly or if any additional features are required to be implemented.",
+        },
+        {
+            title: "IT Manager",
+            company: "Wichita Wolves Esports",
+            location: "Worked from home",
+            companyUrl: "https://wichitawolves.com",
+            startDate: "Oct 2019",
+            endDate: "Oct 2021",
+            summary: "Developed a website and a discord bot (web application) for the Wichita Wolves, an Esports Organization based in the city of Wichita, Kansas. I joined the organization in October 2019 and handled all their Technology related matters.",
+        }
+    ],
+
+    education: [
+        {
+            school: "Carleton University",
+            location: "Ottawa, ON",
+            degree: "Bachelor of Computer Science",
+            startDate: "Sep 2018",
+            endDate: "Present",
+        },
+        {
+            school: "Merryland International School",
+            location: "Abu Dhabi, UAE",
+            degree: "A-Level",
+            startDate: "Sep 2004",
+            endDate: "Jun 2018",
+        },
+    ],
+
+    skills: [
+        "Communication",
+        "Teamwork",
+        "Leadership",
+        "Problem Solving",
+        "Customer Service",
+        "Creativity",
+    ],
 
     editorAndServices: [
         {
