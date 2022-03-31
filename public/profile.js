@@ -18,7 +18,7 @@ module.exports = {
     ],
 
     summary:
-        "Full-Stack Developer. Currently enrolled at Carleton University, I have been creating applications since high school. Having created a wide variety of programs and am capable of implementing my ideas into practical programs. With my experience working on a large number of team projects, I've developed great teamwork and leadership skills that would be very valuable for me when settling into new work environments.",
+        "Full-Stack Developer. Currently enrolled at Carleton University, I have been creating applications since high school. Having created a wide variety of programs and the capability of implementing my ideas into practical programs, I can face any problem head on. With my experience working on a large number of team projects, I've developed great teamwork and leadership skills that would be very valuable for me when settling into new work environments.",
 
     avatar: "https://taimoor.me/images/avatar.jpg",
     banner: "https://taimoor.me/images/banner.jpg",
