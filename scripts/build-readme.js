@@ -20,7 +20,7 @@ let readme = `# Hi 👋, I'm ${profile.name}
 
 readme += "\n## 🔗 My socials\n\n";
 profile.socials.forEach(s => {
-    if (s.badge) readme += `[![${s.name}](https://img.shields.io/badge/${s.name}-${s.badge.color}?style=for-the-badge&logo=${s.badge.name}&logoColor=${s.badge.logoColor})](#)\n`;  
+    if (s.badge) readme += `[![${s.name}](https://img.shields.io/badge/${s.name}-${s.badge.color}?style=for-the-badge&logo=${s.badge.name}&logoColor=${s.badge.logoColor})](${s.url})\n`;  
 });
 
 readme += "\n## ✨ Languages and Frameworks I use\n\n";

@@ -16,12 +16,9 @@
 
 ## 🔗 My socials
 
-<a href="https://taimoor.me/twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" />
-</a>
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![KoFi](https://img.shields.io/badge/KoFi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](#) -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://taimoor.me/twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://taimoor.me/linkedin)
+[![KoFi](https://img.shields.io/badge/KoFi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taimoor.me/kofi)
 
 ## ✨ Languages and Frameworks I use
 
