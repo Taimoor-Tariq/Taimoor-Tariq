@@ -8,13 +8,13 @@ const Page = () => {
 
     return (
         <body className="bg-gray-500 flex justify-center pt-12 pb-6">
-            <div className="h-full w-5/12 bg-gray-200 text-gray-900 shadow-2xl">
+            <div className="h-full w-full md:w-5/12 bg-gray-200 text-gray-900 shadow-2xl">
                 <Pdf targetRef={ref} filename="Taimoor_Tariq_-_Resume.pdf">
                     {({ toPdf }) => {
                         return (
                             <div className="fixed top-0 left-0 bg-gray-900 w-full p-4 flex justify-between">
                                 <p className="text-gray-200 font-semibold text-2xl ml-6">Taimoor Tariq - Resume.pdf</p>
-                                <div className="flex gap-4">
+                                <div className="flex gap-4 flex-col md:flex-row">
                                     <a href="/" className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">Back to my site</a>
                                     <button onClick={toPdf} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                                         Download
@@ -28,7 +28,7 @@ const Page = () => {
                     <p className="font-semibold text-4xl">{profile.name}</p>
                     <p className="font-medium text-xl text-gray-500 ml-1">{profile.title}</p>
                     <div className="grid grid-cols-12 mt-8">
-                        <div className="col-span-8 pr-12">
+                        <div className="col-span-12 md:col-span-8 pr-12">
                             <p className="font-semibold text-2xl mb-1">Profile</p>
                             <p className="font-medium text-sm ml-0.5">{profile.summary}</p>
 
@@ -59,7 +59,7 @@ const Page = () => {
                             </div>
                         </div>
 
-                        <div className="col-span-4">
+                        <div className="col-span-12 md:col-span-4">
                             <p className="font-semibold text-xl mb-1">Details</p>
                             <div className="grid grid-cols-12 gap-1 items-center text-gray-500 ml-1">
                                 <img src="/images/icons/envelope.png" alt="" />
