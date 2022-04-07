@@ -22,6 +22,11 @@ module.exports = {
                 permanent: true,
             },
             {
+                source: "/projects/ball-simulation",
+                destination: "https://Balls-Colliding-Simulation.taimoor-tariq.repl.co",
+                permanent: true,
+            },
+            {
                 source: "/projects/chat-app/:path*",
                 destination: "https://chat-app.projects.taimoor.me/:path*",
                 permanent: true,
