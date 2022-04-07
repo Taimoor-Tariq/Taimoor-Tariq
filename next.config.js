@@ -1,4 +1,12 @@
 module.exports = {
+    async rewrites() {
+        return [
+            {
+                source: "/projects/ball-simulation",
+                destination: "https://Balls-Colliding-Simulation.taimoor-tariq.repl.co",
+            },
+        ];
+    },
     async redirects() {
         return [
             {
@@ -19,11 +27,6 @@ module.exports = {
             {
                 source: "/kofi",
                 destination: "https://ko-fi.com/C0C030IH9",
-                permanent: true,
-            },
-            {
-                source: "/projects/ball-simulation",
-                destination: "https://Balls-Colliding-Simulation.taimoor-tariq.repl.co",
                 permanent: true,
             },
             {
