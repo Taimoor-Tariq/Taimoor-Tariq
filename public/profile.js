@@ -33,11 +33,20 @@ module.exports = {
         },
         {
             title: "Lead Developer",
+            company: "Riftwalker Studios",
+            location: "Ottawa, ON",
+            companyUrl: "https://riftwalker.gg/",
+            startDate: "Sep 2022",
+            endDate: "Present",
+            summary: "Fully developed a system to manage realtime overlays for content creators which allows remote control of the overlays. I currently look after the system and make sure everything goes smoothly or if any additional features are required to be implemented.",
+        },
+        {
+            title: "Lead Developer",
             company: "Ontario Post Secondary Esports",
             location: "Ottawa, ON",
             companyUrl: "https://opsesports.ca/",
             startDate: "Sep 2020",
-            endDate: "Present",
+            endDate: "Sep 2022",
             summary: "Developed an automated system to host and record the tournament games. I currently look after the system and make sure everything goes smoothly or if any additional features are required to be implemented.",
         },
         {
@@ -122,6 +131,12 @@ module.exports = {
             level: "5/5",
             website: "https://tailwindcss.com/",
             badge: { name: "tailwind-css", color: "38B2AC", logoColor: "white" },
+        },
+        {
+            name: "Shadcn UI",
+            level: "5/5",
+            website: "https://ui.shadcn.com/",
+            badge: { name: "shadcnui", color: "000000", logoColor: "white" },
         },
         {
             name: "Mantine_UI",
